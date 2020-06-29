@@ -1,2 +1,2 @@
-# liu-xiaofeng.github.io
-Repository for Xiaofeng Liu's academic research website.
+# sitecmu.github.io
+Repository for Site Li's academic research website.
